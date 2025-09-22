@@ -1,7 +1,7 @@
 enum CandleColor {
-    GREEN,
-    RED,
-    UNDETERMINED
+    GREEN = 'green',
+    RED = 'red',
+    UNDETERMINED = 'undetermined',
 }
 
 export default CandleColor;
